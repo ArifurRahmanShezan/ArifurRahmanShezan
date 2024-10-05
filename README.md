@@ -12,7 +12,7 @@
 <p align="center">A computer science enthusiast, focused on developing machine learning models and crafting visual analytics with tools like Tableau, Power BI, and beyond.</p>
 
 <h3 align="center">✨ Fun Fact:</h3>
-<p align="center">I'm a productivity hacker who loves to automate everything—turning laziness into efficiency!</p>
+<p align="center">I'm a learner who loves to automate everything—turning laziness into efficiency!</p>
 
 <!-- Tech Stack Section -->
 <h1 align="center">💻 Technologies I Use</h1>
@@ -67,5 +67,5 @@
 
 <!-- Closing Footer -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&center=true&vCenter=true&width=500&height=50&lines=Crafted+with+%E2%9D%A4%EF%B8%8F+using+HTML+and+CSS!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&center=true&vCenter=true&width=500&height=50&lines=Crafted+with+%E2%9D%A4%EF%B8%8F" />
 </p>
