@@ -11,11 +11,9 @@
 <!-- About Me Section -->
 <p align="center">A computer science enthusiast, focused on developing machine learning models and crafting visual analytics with tools like Tableau, Power BI, and beyond.</p>
 
-<h3 align="center">✨ Fun Fact:</h3>
-<p align="center">I'm a learner who loves to automate everything—turning laziness into efficiency!</p>
 
 <!-- Tech Stack Section -->
-<h1 align="center">💻 Technologies I Use</h1>
+<h1 align="center">Technologies I Use</h1>
 <p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
     <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" /></a>
